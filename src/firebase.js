@@ -7,14 +7,6 @@ import { toast } from "sonner";
 // https://firebase.google.com/docs/web/setup#available-libraries
 
 // Your web app's Firebase configuration
-const firebaseConfig = {
-  apiKey: "AIzaSyBW6CxOm1n8542dEff62UeNt4F6LRXkQv4",
-  authDomain: "movie-flix-94460.firebaseapp.com",
-  projectId: "movie-flix-94460",
-  storageBucket: "movie-flix-94460.appspot.com",
-  messagingSenderId: "1030118680980",
-  appId: "1:1030118680980:web:7ca5018ddd446e9d1dc781"
-};
 
 // Initialize Firebase
 const app = initializeApp(firebaseConfig);
